@@ -1,0 +1,36 @@
+E:\4.Facultate\Coduri VisualStudio\baza de date\Baza de date\Baza de date\obj\Debug\Baza de date.csprojAssemblyReference.cache
+E:\4.Facultate\Coduri VisualStudio\baza de date\Baza de date\Baza de date\obj\Debug\Baza_de_date.Form1.resources
+E:\4.Facultate\Coduri VisualStudio\baza de date\Baza de date\Baza de date\obj\Debug\Baza_de_date.Properties.Resources.resources
+E:\4.Facultate\Coduri VisualStudio\baza de date\Baza de date\Baza de date\obj\Debug\Baza de date.csproj.GenerateResource.cache
+E:\4.Facultate\Coduri VisualStudio\baza de date\Baza de date\Baza de date\obj\Debug\Baza de date.csproj.CoreCompileInputs.cache
+E:\4.Facultate\Coduri VisualStudio\baza de date\Baza de date\Baza de date\bin\Debug\Baza de date.exe.config
+E:\4.Facultate\Coduri VisualStudio\baza de date\Baza de date\Baza de date\bin\Debug\Baza de date.exe
+E:\4.Facultate\Coduri VisualStudio\baza de date\Baza de date\Baza de date\bin\Debug\Baza de date.pdb
+E:\4.Facultate\Coduri VisualStudio\baza de date\Baza de date\Baza de date\obj\Debug\Baza de date.exe
+E:\4.Facultate\Coduri VisualStudio\baza de date\Baza de date\Baza de date\obj\Debug\Baza de date.pdb
+E:\4.Facultate\Coduri VisualStudio\baza de date\Baza de date\Baza de date\obj\Debug\Baza_de_date.eLearning2018.resources
+E:\4.Facultate\Coduri VisualStudio\baza de date\Baza de date\Baza de date\obj\Debug\Baza_de_date.vanzare.resources
+E:\4.Facultate\Coduri VisualStudio\baza de date\Baza de date\Baza de date\obj\Debug\Baza_de_date.Angajat.resources
+E:\4.Facultate\Coduri VisualStudio\baza de date\Baza de date\Baza de date\obj\Debug\Baza_de_date.clienti.resources
+E:\4.Facultate\Coduri VisualStudio\baza de date\Baza de date\Baza de date\obj\Debug\Baza_de_date.masina.resources
+E:\4.Facultate\Coduri VisualStudio\baza de date\Baza de date\Baza de date\obj\Debug\Baza_de_date.interogari.resources
+E:\4.Facultate\Coduri VisualStudio\baza de date\Baza de date\Baza de date\obj\Debug\Baza_de_date.dotari_opt.resources
+E:\4.Facultate\Coduri VisualStudio\baza de date\Baza de date\Baza de date\obj\Debug\Baza_de_date.dotari_opt_masina.resources
+F:\4.Facultate\An 3 Sem 1\Coduri VisualStudio\baza de date\Baza de date\Baza de date\bin\Debug\Baza de date.exe.config
+F:\4.Facultate\An 3 Sem 1\Coduri VisualStudio\baza de date\Baza de date\Baza de date\bin\Debug\Baza de date.exe
+F:\4.Facultate\An 3 Sem 1\Coduri VisualStudio\baza de date\Baza de date\Baza de date\bin\Debug\Baza de date.pdb
+F:\4.Facultate\An 3 Sem 1\Coduri VisualStudio\baza de date\Baza de date\Baza de date\obj\Debug\Baza de date.csproj.AssemblyReference.cache
+F:\4.Facultate\An 3 Sem 1\Coduri VisualStudio\baza de date\Baza de date\Baza de date\obj\Debug\Baza_de_date.Angajat.resources
+F:\4.Facultate\An 3 Sem 1\Coduri VisualStudio\baza de date\Baza de date\Baza de date\obj\Debug\Baza_de_date.clienti.resources
+F:\4.Facultate\An 3 Sem 1\Coduri VisualStudio\baza de date\Baza de date\Baza de date\obj\Debug\Baza_de_date.dotari_opt.resources
+F:\4.Facultate\An 3 Sem 1\Coduri VisualStudio\baza de date\Baza de date\Baza de date\obj\Debug\Baza_de_date.dotari_opt_masina.resources
+F:\4.Facultate\An 3 Sem 1\Coduri VisualStudio\baza de date\Baza de date\Baza de date\obj\Debug\Baza_de_date.eLearning2018.resources
+F:\4.Facultate\An 3 Sem 1\Coduri VisualStudio\baza de date\Baza de date\Baza de date\obj\Debug\Baza_de_date.Form1.resources
+F:\4.Facultate\An 3 Sem 1\Coduri VisualStudio\baza de date\Baza de date\Baza de date\obj\Debug\Baza_de_date.interogari.resources
+F:\4.Facultate\An 3 Sem 1\Coduri VisualStudio\baza de date\Baza de date\Baza de date\obj\Debug\Baza_de_date.masina.resources
+F:\4.Facultate\An 3 Sem 1\Coduri VisualStudio\baza de date\Baza de date\Baza de date\obj\Debug\Baza_de_date.Properties.Resources.resources
+F:\4.Facultate\An 3 Sem 1\Coduri VisualStudio\baza de date\Baza de date\Baza de date\obj\Debug\Baza_de_date.vanzare.resources
+F:\4.Facultate\An 3 Sem 1\Coduri VisualStudio\baza de date\Baza de date\Baza de date\obj\Debug\Baza de date.csproj.GenerateResource.cache
+F:\4.Facultate\An 3 Sem 1\Coduri VisualStudio\baza de date\Baza de date\Baza de date\obj\Debug\Baza de date.csproj.CoreCompileInputs.cache
+F:\4.Facultate\An 3 Sem 1\Coduri VisualStudio\baza de date\Baza de date\Baza de date\obj\Debug\Baza de date.exe
+F:\4.Facultate\An 3 Sem 1\Coduri VisualStudio\baza de date\Baza de date\Baza de date\obj\Debug\Baza de date.pdb
